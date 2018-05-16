@@ -1,6 +1,6 @@
 package java_homework;
 
-public class Array2D_Demo {
+public class Array2DDemo {
 	public static void main(String[] args) {
 		int x[][] = { { 23, 56, 47 }, { 26, 24, 86 }, { 12, 56, 64 } };
 		System.out.println("In Matrix Form");
